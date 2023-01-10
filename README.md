@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android and web development
 - 🌱 I’m currently learning Reactjs, Nodejs and solidity
 - 💞️ I’m looking to collaborate on Web3
-- 📫 How to reach me is through 0741123491
+- 📫 How to reach me is through lokalawashington2019@gmail.com
 
 <!---
 lokalawashington/lokalawashington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
